@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8821" started-at="2019-08-26T23:23:06Z" finished-at="2019-08-26T23:23:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8821" started-at="2019-08-26T23:23:06Z" finished-at="2019-08-26T23:23:15Z">
+      <class name="com.org.unit.Framework.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.org.unit.Framework.TestCases.LoginPageTest@1593948d]" name="init" is-config="true" duration-ms="601" started-at="2019-08-27T04:53:05Z" finished-at="2019-08-27T04:53:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="setupApp()[pri:0, instance:com.org.unit.Framework.TestCases.LoginPageTest@1593948d]" name="setupApp" is-config="true" duration-ms="6237" started-at="2019-08-27T04:53:06Z" finished-at="2019-08-27T04:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupApp -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.org.unit.Framework.TestCases.LoginPageTest@1593948d]" name="loginPage" duration-ms="1437" started-at="2019-08-27T04:53:12Z" finished-at="2019-08-27T04:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.unit.Framework.TestCases.LoginPageTest@1593948d]" name="tearDown" is-config="true" duration-ms="426" started-at="2019-08-27T04:53:14Z" finished-at="2019-08-27T04:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.org.unit.Framework.TestCases.LoginPageTest@1593948d]" name="close" is-config="true" duration-ms="699" started-at="2019-08-27T04:53:14Z" finished-at="2019-08-27T04:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.org.unit.Framework.TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
